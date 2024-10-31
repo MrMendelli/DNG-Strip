@@ -1,0 +1,10 @@
+.vs/
+bin/
+src/DNG Strip/.vs
+src/DNG Strip/obj
+src/dnlib/.vs
+src/dnlib/obj
+
+*.lnk
+*.url
+*.zip
